@@ -1,4 +1,4 @@
-# movie-recommendation-system-and-sentiment-analysis-of-movie-reviews
+# Movie Recommendation System and Sentiment Analysis of Movie Reviews
 This is ML project on movie recommendation system based on genre and ratings and sentiment analysis of user reviews of movies, i.e they liked it or not.
 
 
